@@ -1,6 +1,6 @@
 # Digital Sound Transfer Protocol (DSTP)
 
-Uses custom implementation of MFSK. Not even sure if I implemented it correctly, but it works. \
+Uses custom implementation of MFSK 4. Not even sure if I implemented it correctly, but it works. \
 Example signal in `src/signals`. \
 Video of CLI in `docs`. 
 
