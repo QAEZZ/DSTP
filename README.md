@@ -25,6 +25,6 @@ Also, don't use this in the real world. It's a terrible protocol. This was made 
   </tr>
   <tr>
     <th>Symbol Map</th>
-    <td>- `00`: 400<br/>- `01`: 800<br/>- `10`: 1200<br/>- `11`: 1600</td>
+    <td>- <code>00</code>: 400<br/>- <code>01</code>: 800<br/>- <code>10</code>: 1200<br/>- <code>11</code>: 1600</td>
   </tr>
 </table>
