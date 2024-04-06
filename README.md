@@ -1,11 +1,10 @@
 # Digital Sound Transfer Protocol (DSTP)
-**It is semi-functional, not done yet.**
 
 Uses a custom implementation of [MFSK-4](https://www.sigidwiki.com/wiki/Multi_Frequency_Shift_Keying_(MFSK)). Not even sure if I implemented it correctly, but it works. \
 Example signal in [`src/signals`](https://github.com/QAEZZ/DSTP/tree/main/src/signals). \
 Video of CLI in [`docs`](https://github.com/QAEZZ/DSTP/tree/main/docs). 
 
-
+Code is a mess, too tired to reorganize and optimize.
 
 Also, don't use this in the real world. It's a terrible protocol. This was made for fun.
 
